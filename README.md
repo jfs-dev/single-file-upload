@@ -1,5 +1,5 @@
 # single-file-upload
-Upload de apenas um arquivo por vez com C# e .NET 7.0
+Upload de um arquivo por vez com C# e .NET 7.0
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
